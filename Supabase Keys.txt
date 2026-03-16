@@ -1,0 +1,2 @@
+prjUrl: https://hwbwunlwunsqwmwennaf.supabase.co
+API KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh3Ynd1bmx3dW5zcXdtd2VubmFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2NDgzNzcsImV4cCI6MjA4OTIyNDM3N30.T-sAMo4nVpSsyHVjNituDDagnbWmpjL5LLQvyRACSWs
